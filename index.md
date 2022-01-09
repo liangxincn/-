@@ -1,123 +1,58 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 让时间陪你慢慢变富
 
-[Link to another page](./another-page.html).
+## 定投改变命运  李笑来著
 
-There should be whitespace between paragraphs.
+## 序
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+这是一本写给普通人的书。
 
-# Header 1
+我自认是个普通人，2011年的春天，我误打误撞进入了投资领域。转眼8年过去，我做得很好，成绩相当不错。毫无疑问，是定投改变了我的命运。
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+过去8年的投资经历，使得我越来越清楚地看到一个事实：在当期这个时代里，理论上，每个普通人都有实现财富自由的机会。赚钱，绝对是硬本事。可遗憾的是，它对绝大多数普通人来说，就是一种父母不会、学校不教，并且整个社会还要妖魔化它的技能——没有人能够清楚地解释这到底是为什么。
 
-## Header 2
+我写了半辈子关于学习的书籍，这一次，《让时间陪你慢慢变富》终于做到了更进一步，因为它不仅仅是一本好书，更是一本目标明确的践行手册——不做不要读，读了就必须做；做了不会马上有结果，长期做必然有好结果。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 目录
 
-### Header 3
+### 前言
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### 1 几乎所有人都有定投的资格和能力
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### 2 证券交易市场是世界第九大奇迹
 
-#### Header 4
+### 3 究竟有没有只涨不跌的投资标的
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### 4 普通人做投资的唯一正确方式
 
-##### Header 5
+### 5 为什么很少有人使用定投策略
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 6 定投策略神奇力量背后的深刻机理
 
-###### Header 6
+#### 6.1.所有人都应该培养自己的主动人格
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+#### 6.2.大多数主动的人竟然不知道边界
 
-### There's a horizontal rule below this.
+#### 6.3.决定命运的因素常常在主动边界之外
 
-* * *
+#### 6.4.驾驭趋势的最优策略只能是主动地被动
 
-### Here is an unordered list:
+#### 6.5.定投是“主动地被动”的最佳践行策略
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+#### 6.6.顺应趋势的被动力量究竟有多么强大
 
-### And an ordered list:
+#### 6.7.在主动的边界内你还有多少空间
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+#### 6.8.对于长期的理解决定你的结果
 
-### And a nested list:
+#### 6.9.普通人究竟有什么样的极端优势
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### 7 愚蠢与愚昧的区别以及被动聪明
 
-### Small image
+### 8 有些人总是身处正确的一侧
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### 9 镜像世界另外一侧的众生相
 
-### Large image
+### 10 定投是普通人必需的选择
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### 结语
