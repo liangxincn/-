@@ -367,10 +367,15 @@ Full-Width Styles
   background: #f2f2f2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
+  
 }
 
 #main_content {
   padding-top: 40px;
+}
+
+#main_content p{
+  text-indent:2em;
 }
 
 #footer_wrap {
@@ -385,7 +390,7 @@ Small Device Styles
 
 @media screen and (max-width: 992px) {
   img {
-    max-width: 100%;
+    max-width: 61%;
   }
 }
 
