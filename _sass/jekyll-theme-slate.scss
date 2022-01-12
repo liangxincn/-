@@ -191,7 +191,7 @@ blockquote {
 }
 
 blockquote p {
-  text-indent:0;
+  text-indent:revert!important;
 }
 
 ul, ol, dl {
