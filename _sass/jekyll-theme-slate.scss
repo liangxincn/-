@@ -190,6 +190,10 @@ blockquote {
   padding-left: 20px;
 }
 
+blockquote p{
+text-indent:0@important;
+
+}
 
 ul, ol, dl {
   margin-bottom: 15px
