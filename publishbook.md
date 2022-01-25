@@ -7,3 +7,5 @@
 > - 韭菜的自我修养（[中文](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/)·[English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/)）
 > - [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
 > - [定投改变命运（第三版）](https://onregularinvesting.com/)
+
+[**返回首页**](./index.md)
